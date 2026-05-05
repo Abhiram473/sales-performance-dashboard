@@ -55,6 +55,10 @@ Analyze sales data to uncover insights on revenue trends, customer behavior, and
 
 ![Dashboard](images/dashboard_overview.png)
 
+## Dashboard Analysis
+
+![Dashboard](images/dashboard_analysis.png)
+
 ---
 
 ## 📂 Project Structure
