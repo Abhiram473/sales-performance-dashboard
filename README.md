@@ -53,7 +53,7 @@ Analyze sales data to uncover insights on revenue trends, customer behavior, and
 
 ## 📸 Dashboard Preview
 
-(Add your screenshots here)
+![Dashboard](images/dashboard_overview.png)
 
 ---
 
