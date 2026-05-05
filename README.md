@@ -36,7 +36,6 @@ Analyze sales data to uncover insights on revenue trends, customer behavior, and
 * KPI Cards: Total Sales, Total Orders, Average Sales
 * Monthly Sales Trend Analysis
 * Sales by Category and Sub-Category
-* Sales by Region and State (Map)
 * Customer Segmentation (Segment Analysis)
 * Top 10 Customers by Revenue
 * Interactive Filters (Year, Region, Category)
