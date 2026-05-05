@@ -9,6 +9,7 @@ Analyze sales data to uncover insights on revenue trends, customer behavior, and
 ## 📁 Dataset
 
 * Source: Superstore Sales Dataset
+* Kaggle Link: [Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 * Includes order details such as sales, category, region, customer, and shipping data
 
 ---
