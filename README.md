@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard
+# 📊 Superstore Sales Performance Dashboard
 
 ## 🔍 Objective
 
